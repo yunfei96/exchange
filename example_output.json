@@ -1,0 +1,25 @@
+{
+	"Groups": 
+	[
+		{
+			"GroupID": 0, 
+			"Users": 
+			{
+				"issac@vt.edu": 55555, 
+				"yunfei@vt.edu": 99092,
+				"theo@vt.edu": 12345
+			}
+		}, 
+		{
+			"GroupID": 1,
+			"Users": 
+			{
+				"grace@vt.edu": 12345,
+				"nick@vt.edu": 55555, 
+				"nicole@vt.edu": 99092,
+				"theo@vt.edu": 99092
+			}
+		}
+	], 
+	"DateTime": "1/1/2018"
+}

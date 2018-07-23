@@ -1,0 +1,70 @@
+{
+	"DateTime": "1/1/2018",
+	"Users": 
+  	{
+  		
+		"grace@vt.edu":
+		{
+			"Gives": [
+				99092
+			],
+			"Wants": [
+				12345
+			]
+		},
+		
+		"issac@vt.edu":
+		{
+			"Gives": [
+				99092
+			],
+			"Wants": [
+				55555
+			]
+		},	
+		
+		"nick@vt.edu":
+		{
+			"Gives": [
+				99092
+			],
+			"Wants": [
+				55555
+			]
+		},
+		
+		"theo@vt.edu":
+		{
+			"Gives": [
+				55555, 
+            	78795
+			],
+			"Wants": [
+				12345, 
+            	99092
+			]
+		},
+
+		"yunfei@vt.edu":
+		{
+			"Gives": [
+				12345, 
+            	78795
+			],
+			"Wants": [
+				99092
+			]
+		},
+
+		"nicole@vt.edu":
+		{
+			"Gives": [
+				12345
+			],
+			"Wants": [
+				99092
+			]
+		}
+
+	}
+}
